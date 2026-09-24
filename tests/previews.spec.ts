@@ -25,6 +25,14 @@ for (const entry of entries) {
   test(`preview: ${entry.slug}`, async ({ page }) => {
     const errors: string[] = [];
     page.on("pageerror", (error) => errors.push(error.message));
+    page.on("console", (message) => {
+      if (message.text().startsWith("CSP violation:")) errors.push(message.text());
+    });
+    await page.addInitScript(() => {
+      document.addEventListener("securitypolicyviolation", (event) => {
+        console.error(`CSP violation: ${event.violatedDirective} ${event.blockedURI}`);
+      });
+    });
     const response = await page.goto(`/preview/${entry.slug}?theme=light`);
     expect(response?.status()).toBe(200);
     const root = page.locator(`[data-demo="${entry.slug}"]`);

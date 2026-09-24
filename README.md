@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/NikroZorkin/ElementsUIforKitty/actions/workflows/ci.yml"><img src="https://github.com/NikroZorkin/ElementsUIforKitty/actions/workflows/ci.yml/badge.svg" alt="Collection checks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-202025?style=flat-square" alt="License: MIT" /></a>
   <a href="#the-collection"><img src="https://img.shields.io/badge/components-130-202025?style=flat-square" alt="130 components" /></a>
   <a href="#credits-and-license"><img src="https://img.shields.io/badge/community_libraries-4-202025?style=flat-square" alt="4 community libraries" /></a>
@@ -180,6 +181,7 @@ npm run check          # TypeScript and ESLint
 npm run format:check   # Prettier
 npm run test:exports   # Build and type-check each exported example
 npm run build         # Production build
+npm audit --omit=dev   # Production dependency advisories
 ```
 
 For browser checks, keep `npm run start` running in another terminal, then run:
@@ -202,6 +204,10 @@ On macOS the scripts use Google Chrome when installed. Otherwise, run `npx playw
 6. With the site running, run `npm run thumbnails -- <slug>`, then the checks above.
 
 `npm run thumbnails` without a slug refreshes all 260 thumbnails. When adding entries, also update the counts in this README and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Security
+
+See [SECURITY.md](SECURITY.md) for the application's security boundaries, checks, and private reporting channel. The browser suite also checks storage failures, malformed preferences, security headers, private-file exposure, and search input escaping. Run `npm audit` to include development dependencies in the advisory check.
 
 ## Credits and license
 
