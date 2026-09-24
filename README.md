@@ -148,7 +148,9 @@ npm run build
 npm run start
 ```
 
-The public catalog is hosted on [Vercel](https://elements-for-kitty.vercel.app). To deploy your own copy, import the repository into Vercel, choose the **Next.js** preset, use `npm ci` to install dependencies, and set the build command to `npm run build` so source bundles are generated before compilation.
+The public catalog is hosted on [Vercel](https://elements-for-kitty.vercel.app). Changes pushed to `main` are automatically deployed to production.
+
+To deploy your own copy, import the repository into Vercel, choose the **Next.js** preset, use `npm ci` to install dependencies, and set the build command to `npm run build` so source bundles are generated before compilation.
 
 <details>
 <summary><strong>Project structure</strong></summary>
