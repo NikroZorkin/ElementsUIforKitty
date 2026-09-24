@@ -1,0 +1,687 @@
+[
+  {
+    "path": "registry/kokonut/Button.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/ui/button.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/ParticleButton.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/particle-button.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/GradientButton.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/gradient-button.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/AttractButton.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/attract-button.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/HoldButton.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/hold-button.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/CommandButton.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/command-button.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/SlideTextButton.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/slide-text-button.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/SocialButton.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/social-button.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/CardFlip.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/card-flip.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/AppleActivityCard.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/apple-activity-card.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/Card.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/ui/card.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/MouseEffectCard.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/mouse-effect-card.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/SpotlightCards.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/spotlight-cards.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/CardStack.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/card-stack.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/ShimmerText.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/shimmer-text.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/SwooshText.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/swoosh-text.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/GlitchText.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/glitch-text.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/MatrixText.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/matrix-text.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/SlicedText.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/sliced-text.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/DynamicText.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/dynamic-text.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/TypeWriter.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/type-writer.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/BeamsBackground.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/beams-background.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/FlowField.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/flow-field.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/BackgroundPaths.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/background-paths.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/Toolbar.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/toolbar.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/SmoothTab.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/smooth-tab.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/MorphicNavbar.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/morphic-navbar.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/ShapeHero.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/shape-hero.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/Loader.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/loader.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/AiLoading.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/ai-loading.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/kokonut/AiTextLoading.tsx",
+    "upstream": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/ai-text-loading.tsx",
+    "source": "kokonut"
+  },
+  {
+    "path": "registry/smoothui/SmoothButton.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/smooth-button/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ClipCornersButton.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/clip-corners-button/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/GlassCard.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/glass-card/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/TiltCard.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/tilt-card/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ProductCard.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/product-card/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/WalletCard.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/wallet-card/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/WaveText.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/wave-text/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AuroraCurtain.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/aurora-curtain/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/PixelFlowField.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/pixel-flow-field/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/GravityStars.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/gravity-stars/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/LiquidMetal.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/liquid-metal/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/HolographicFoil.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/holographic-foil/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/CoverflowCarousel.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/coverflow-carousel/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/InfiniteSlider.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/infinite-slider/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/PhotoStack.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/photo-stack/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/OrbitalImageWheel.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/orbital-image-wheel/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ParallaxLayers.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/parallax-layers/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ScrollRevealParagraph.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/scroll-reveal-paragraph/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/SvgDrawOnScroll.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/svg-draw-on-scroll/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/InlineTestimonials.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/inline-testimonials/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/beui/ease.ts",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/lib/ease.ts",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/use_hover_capable.ts",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/lib/hooks/use-hover-capable.ts",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/ProjectFolder.tsx",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/project-folder.tsx",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/Dock.tsx",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/dock.tsx",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/ExpandableTabs.tsx",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/expandable-tabs.tsx",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/BloomMenu.tsx",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/bloom-menu.tsx",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/touch.ts",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/lib/touch.ts",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/CylinderCarousel.tsx",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/cylinder-carousel.tsx",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/Marquee.tsx",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/marquee.tsx",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/ScrollReveal.tsx",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/scroll-reveal.tsx",
+    "source": "beui"
+  },
+  {
+    "path": "registry/beui/AnimatedToastStack.tsx",
+    "upstream": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/animated-toast-stack.tsx",
+    "source": "beui"
+  },
+  {
+    "path": "registry/smoothui/Features1.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/features/features-1/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ExpandableCards.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/expandable-cards/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/HoverImageList.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/hover-image-list/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/TextMorph.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/text-morph/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/DynamicIsland.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/dynamic-island/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Header5.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/headers/header-5/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/PriceFlow.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/price-flow/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ReviewsCarousel.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/reviews-carousel/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AnimatedFileUpload.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-file-upload/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AnimatedInput.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-input/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Features2.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/features/features-2/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/MagneticButton.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/magnetic-button/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Header6.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/headers/header-6/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Footer4.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/footers/footer-4/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AnimatedProgressBar.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-progress-bar/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/NotificationBadge.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/notification-badge/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/FloatingNavbar.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/floating-navbar/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Book.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/book/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ButtonCopy.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/button-copy/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/SkeletonLoader.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/skeleton-loader/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Faq1.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/faqs/faq-1/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ContributionGraph.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/contribution-graph/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/FolderReveal.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/folder-reveal/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/FileTree.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/file-tree/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/BasicToast.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/basic-toast/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AiLoader.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-loader/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AiApproval.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-approval/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/DurationPicker.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/duration-picker/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AnimatedTabs.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-tabs/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AiContextMeter.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-context-meter/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AiTaskList.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-task-list/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/CardSwipeDeck.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/card-swipe-deck/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AiToolCall.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-tool-call/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/InteractiveImageSelector.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/interactive-image-selector/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Cta1.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/ctas/cta-1/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/MotionLoader.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/motion-loader/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/GravityLetters.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/gravity-letters/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Breadcrumb.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/breadcrumb/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/RollingText.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/rolling-text/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Pricing1.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/pricing/pricing-1/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/GlowHoverCard.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/glow-hover-card/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/TimeMachineStack.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/time-machine-stack/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/HoverExpand.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/hover-expand/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ScrollableCardStack.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/scrollable-card-stack/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ExpandableNavbar.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/expandable-navbar/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/PerspectiveText3d.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/perspective-text-3d/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AnimatedTags.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-tags/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/NumberFlow.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/number-flow/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ScrambleHover.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/scramble-hover/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/VectorEditorToolbar.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/vector-editor-toolbar/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/SwitchboardCard.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/switchboard-card/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/SearchableDropdown.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/searchable-dropdown/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/ImageMetadataPreview.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/image-metadata-preview/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/BasicDropdown.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/basic-dropdown/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AnimatedStepper.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-stepper/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/Stats1.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/stats/stats-1/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/smoothui/AnimatedToggle.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-toggle/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/magicui/LightRays.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/light-rays.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/Particles.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/particles.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/Ripple.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/ripple.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/Meteors.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/meteors.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/RetroGrid.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/retro-grid.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/WarpBackground.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/warp-background.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/AnimatedGridPattern.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/animated-grid-pattern.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/smoothui/Animation.ts",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/lib/animation.ts",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/magicui/RippleButton.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/ripple-button.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/ShimmerButton.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/shimmer-button.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/InteractiveHoverButton.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/interactive-hover-button.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/NeonGradientCard.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/neon-gradient-card.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/smoothui/SocialHoverCard.tsx",
+    "upstream": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/social-hover-card/index.tsx",
+    "source": "smoothui"
+  },
+  {
+    "path": "registry/magicui/SpinningText.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/spinning-text.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/DotPattern.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/dot-pattern.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/InteractiveGridPattern.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/interactive-grid-pattern.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/Lens.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/lens.tsx",
+    "source": "magicui"
+  },
+  {
+    "path": "registry/magicui/AnimatedCircularProgressBar.tsx",
+    "upstream": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/animated-circular-progress-bar.tsx",
+    "source": "magicui"
+  }
+]

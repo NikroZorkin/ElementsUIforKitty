@@ -1,0 +1,57 @@
+{
+  "name": "elements-ui-for-kitty",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "predev": "node scripts/buildCatalog.mjs",
+    "prebuild": "node scripts/buildCatalog.mjs",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test:e2e": "playwright test",
+    "test:a11y": "playwright test --grep accessibility",
+    "test:exports": "node scripts/checkExports.mjs",
+    "thumbnails": "node scripts/thumbnails.mjs",
+    "check": "npm run typecheck && npm run lint",
+    "qa": "npm run check && npm run test:exports && npm run test:e2e",
+    "catalog": "node scripts/buildCatalog.mjs",
+    "pretest:exports": "node scripts/buildCatalog.mjs"
+  },
+  "dependencies": {
+    "@fontsource/pacifico": "^5.3.0",
+    "@phosphor-icons/react": "^2.1.10",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-slot": "^1.3.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.577.0",
+    "motion": "13.4.0",
+    "next": "16.3.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-use-measure": "^2.1.7",
+    "shiki": "^4.0.0",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.11.1",
+    "@playwright/test": "1.63.0",
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "esbuild": "^0.27.0",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "16.3.5",
+    "prettier": "^3.8.0",
+    "tailwindcss": "^4.2.1",
+    "typescript": "^5.9.3"
+  }
+}

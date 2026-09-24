@@ -1,0 +1,1302 @@
+[
+  {
+    "slug": "particle-button",
+    "title": "Particle Button",
+    "category": "buttons",
+    "source": "kokonut",
+    "path": "registry/kokonut/ParticleButton.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/particle-button.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A satisfying burst of particles on every click."
+  },
+  {
+    "slug": "gradient-button",
+    "title": "Gradient Button",
+    "category": "buttons",
+    "source": "kokonut",
+    "path": "registry/kokonut/GradientButton.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/gradient-button.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Layered gradient light and a luminous hover state."
+  },
+  {
+    "slug": "attract-button",
+    "title": "Attract Button",
+    "category": "buttons",
+    "source": "kokonut",
+    "path": "registry/kokonut/AttractButton.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/attract-button.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Particles gather around a button as you hover."
+  },
+  {
+    "slug": "hold-button",
+    "title": "Hold Button",
+    "category": "buttons",
+    "source": "kokonut",
+    "path": "registry/kokonut/HoldButton.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/hold-button.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Press and hold to confirm, with a visible progress indicator."
+  },
+  {
+    "slug": "command-button",
+    "title": "Command Button",
+    "category": "buttons",
+    "source": "kokonut",
+    "path": "registry/kokonut/CommandButton.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/command-button.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A compact action button with a keyboard shortcut label."
+  },
+  {
+    "slug": "slide-text-button",
+    "title": "Slide Text Button",
+    "category": "buttons",
+    "source": "kokonut",
+    "path": "registry/kokonut/SlideTextButton.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/slide-text-button.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Two lines of text trade places on hover."
+  },
+  {
+    "slug": "social-button",
+    "title": "Social Button",
+    "category": "buttons",
+    "source": "kokonut",
+    "path": "registry/kokonut/SocialButton.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/social-button.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A spring-animated social action with instant feedback."
+  },
+  {
+    "slug": "card-flip",
+    "title": "Card Flip",
+    "category": "cards",
+    "source": "kokonut",
+    "path": "registry/kokonut/CardFlip.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/card-flip.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A two-sided card with a tactile, three-dimensional flip."
+  },
+  {
+    "slug": "apple-activity-card",
+    "title": "Apple Activity Card",
+    "category": "cards",
+    "source": "kokonut",
+    "path": "registry/kokonut/AppleActivityCard.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/apple-activity-card.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Animated activity rings inside a compact dashboard card."
+  },
+  {
+    "slug": "mouse-effect-card",
+    "title": "Mouse Effect Card",
+    "category": "cards",
+    "source": "kokonut",
+    "path": "registry/kokonut/MouseEffectCard.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/mouse-effect-card.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A pointer-reactive card with a soft spotlight."
+  },
+  {
+    "slug": "spotlight-cards",
+    "title": "Spotlight Cards",
+    "category": "cards",
+    "source": "kokonut",
+    "path": "registry/kokonut/SpotlightCards.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/spotlight-cards.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A collection of cards with a shared, moving highlight."
+  },
+  {
+    "slug": "card-stack",
+    "title": "Card Stack",
+    "category": "cards",
+    "source": "kokonut",
+    "path": "registry/kokonut/CardStack.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/card-stack.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A layered stack that fans out to reveal its contents."
+  },
+  {
+    "slug": "shimmer-text",
+    "title": "Shimmer Text",
+    "category": "text",
+    "source": "kokonut",
+    "path": "registry/kokonut/ShimmerText.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/shimmer-text.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A delicate highlight travelling through your words."
+  },
+  {
+    "slug": "swoosh-text",
+    "title": "Swoosh Text",
+    "category": "text",
+    "source": "kokonut",
+    "path": "registry/kokonut/SwooshText.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/swoosh-text.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A sweeping reveal with a soft, spring-driven finish."
+  },
+  {
+    "slug": "glitch-text",
+    "title": "Glitch Text",
+    "category": "text",
+    "source": "kokonut",
+    "path": "registry/kokonut/GlitchText.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/glitch-text.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A short chromatic glitch that resolves into crisp type."
+  },
+  {
+    "slug": "matrix-text",
+    "title": "Matrix Text",
+    "category": "text",
+    "source": "kokonut",
+    "path": "registry/kokonut/MatrixText.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/matrix-text.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A character-by-character decoding effect."
+  },
+  {
+    "slug": "sliced-text",
+    "title": "Sliced Text",
+    "category": "text",
+    "source": "kokonut",
+    "path": "registry/kokonut/SlicedText.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/sliced-text.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Typography split into moving horizontal slices."
+  },
+  {
+    "slug": "dynamic-text",
+    "title": "Dynamic Text",
+    "category": "text",
+    "source": "kokonut",
+    "path": "registry/kokonut/DynamicText.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/dynamic-text.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A rotating set of words with fluid transitions."
+  },
+  {
+    "slug": "type-writer",
+    "title": "Typewriter",
+    "category": "text",
+    "source": "kokonut",
+    "path": "registry/kokonut/TypeWriter.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/type-writer.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "An animated typing sequence with a blinking caret."
+  },
+  {
+    "slug": "beams-background",
+    "title": "Beams Background",
+    "category": "backgrounds",
+    "source": "kokonut",
+    "path": "registry/kokonut/BeamsBackground.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/beams-background.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Soft columns of light sweeping across a dark canvas."
+  },
+  {
+    "slug": "flow-field",
+    "title": "Flow Field",
+    "category": "backgrounds",
+    "source": "kokonut",
+    "path": "registry/kokonut/FlowField.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/flow-field.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A flowing field of particles that follows its own current."
+  },
+  {
+    "slug": "background-paths",
+    "title": "Background Paths",
+    "category": "backgrounds",
+    "source": "kokonut",
+    "path": "registry/kokonut/BackgroundPaths.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/background-paths.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Fine, animated paths layered behind a headline."
+  },
+  {
+    "slug": "toolbar",
+    "title": "Toolbar",
+    "category": "navigation",
+    "source": "kokonut",
+    "path": "registry/kokonut/Toolbar.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/toolbar.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A compact tool strip with an expanding active label."
+  },
+  {
+    "slug": "smooth-tab",
+    "title": "Smooth Tab",
+    "category": "navigation",
+    "source": "kokonut",
+    "path": "registry/kokonut/SmoothTab.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/smooth-tab.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A shared animated indicator glides between tabs."
+  },
+  {
+    "slug": "morphic-navbar",
+    "title": "Morphic Navbar",
+    "category": "navigation",
+    "source": "kokonut",
+    "path": "registry/kokonut/MorphicNavbar.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/morphic-navbar.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "Navigation with smoothly expanding content."
+  },
+  {
+    "slug": "shape-hero",
+    "title": "Shape Hero",
+    "category": "sections",
+    "source": "kokonut",
+    "path": "registry/kokonut/ShapeHero.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/shape-hero.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A full hero composition with floating geometric shapes."
+  },
+  {
+    "slug": "loader",
+    "title": "Loader",
+    "category": "feedback",
+    "source": "kokonut",
+    "path": "registry/kokonut/Loader.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/loader.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A crisp animated loading indicator with a spring rhythm."
+  },
+  {
+    "slug": "ai-loading",
+    "title": "AI Loading",
+    "category": "feedback",
+    "source": "kokonut",
+    "path": "registry/kokonut/AiLoading.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/ai-loading.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A multi-step thinking indicator for conversational interfaces."
+  },
+  {
+    "slug": "ai-text-loading",
+    "title": "AI Text Loading",
+    "category": "feedback",
+    "source": "kokonut",
+    "path": "registry/kokonut/AiTextLoading.tsx",
+    "sourceUrl": "https://github.com/kokonut-labs/kokonutui/blob/83eec6d982d400a18438001a8efdbac1f159dd43/components/kokonutui/ai-text-loading.tsx",
+    "commit": "83eec6d982d400a18438001a8efdbac1f159dd43",
+    "description": "A soft animated text treatment for a pending response."
+  },
+  {
+    "slug": "clip-corners-button",
+    "title": "Clip Corners Button",
+    "category": "buttons",
+    "source": "smoothui",
+    "path": "registry/smoothui/ClipCornersButton.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/clip-corners-button/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Precision-cut corners that open up on hover."
+  },
+  {
+    "slug": "glass-card",
+    "title": "Glass Card",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/GlassCard.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/glass-card/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Refractive glass with a frosted surface and a moving specular edge."
+  },
+  {
+    "slug": "tilt-card",
+    "title": "Tilt Card",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/TiltCard.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/tilt-card/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A perspective card with parallax depth and pointer-tracked glare."
+  },
+  {
+    "slug": "product-card",
+    "title": "Product Card",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/ProductCard.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/product-card/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A product preview with working wishlist and cart interactions."
+  },
+  {
+    "slug": "wallet-card",
+    "title": "Wallet Card",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/WalletCard.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/wallet-card/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Switch between stacked accounts and conceal their balances."
+  },
+  {
+    "slug": "wave-text",
+    "title": "Wave Text",
+    "category": "text",
+    "source": "smoothui",
+    "path": "registry/smoothui/WaveText.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/wave-text/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A gentle wave moving through individual letters."
+  },
+  {
+    "slug": "aurora-curtain",
+    "title": "Aurora Curtain",
+    "category": "backgrounds",
+    "source": "smoothui",
+    "path": "registry/smoothui/AuroraCurtain.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/aurora-curtain/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Slow ribbons of northern light rendered on canvas."
+  },
+  {
+    "slug": "pixel-flow-field",
+    "title": "Pixel Flow Field",
+    "category": "backgrounds",
+    "source": "smoothui",
+    "path": "registry/smoothui/PixelFlowField.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/pixel-flow-field/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A living pixel field that reacts to your pointer."
+  },
+  {
+    "slug": "gravity-stars",
+    "title": "Gravity Stars",
+    "category": "backgrounds",
+    "source": "smoothui",
+    "path": "registry/smoothui/GravityStars.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/gravity-stars/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A starfield with a pointer-controlled gravitational pull."
+  },
+  {
+    "slug": "liquid-metal",
+    "title": "Liquid Metal",
+    "category": "backgrounds",
+    "source": "smoothui",
+    "path": "registry/smoothui/LiquidMetal.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/liquid-metal/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A reflective metal surface with fluid distortion."
+  },
+  {
+    "slug": "holographic-foil",
+    "title": "Holographic Foil",
+    "category": "backgrounds",
+    "source": "smoothui",
+    "path": "registry/smoothui/HolographicFoil.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/holographic-foil/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An iridescent surface that shifts with the viewing angle."
+  },
+  {
+    "slug": "coverflow-carousel",
+    "title": "Coverflow Carousel",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/CoverflowCarousel.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/coverflow-carousel/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A draggable perspective carousel with keyboard controls."
+  },
+  {
+    "slug": "infinite-slider",
+    "title": "Infinite Slider",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/InfiniteSlider.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/infinite-slider/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An endless track that slows down when you hover."
+  },
+  {
+    "slug": "photo-stack",
+    "title": "Photo Stack",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/PhotoStack.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/photo-stack/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A stack of photographs you can cycle with a click or drag."
+  },
+  {
+    "slug": "orbital-image-wheel",
+    "title": "Orbital Image Wheel",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/OrbitalImageWheel.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/orbital-image-wheel/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An image collection arranged on a draggable orbit."
+  },
+  {
+    "slug": "parallax-layers",
+    "title": "Parallax Layers",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/ParallaxLayers.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/parallax-layers/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Independent scene layers react to scrolling and your pointer."
+  },
+  {
+    "slug": "scroll-reveal-paragraph",
+    "title": "Scroll Reveal Paragraph",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/ScrollRevealParagraph.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/scroll-reveal-paragraph/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A paragraph comes into focus as you scroll."
+  },
+  {
+    "slug": "svg-draw-on-scroll",
+    "title": "SVG Draw on Scroll",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/SvgDrawOnScroll.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/svg-draw-on-scroll/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A line illustration drawn by your scroll position."
+  },
+  {
+    "slug": "inline-testimonials",
+    "title": "Inline Testimonials",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/InlineTestimonials.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/inline-testimonials/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Expandable stories placed right inside a sentence."
+  },
+  {
+    "slug": "project-folder",
+    "title": "Project Folder",
+    "category": "cards",
+    "source": "beui",
+    "path": "registry/beui/ProjectFolder.tsx",
+    "sourceUrl": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/project-folder.tsx",
+    "commit": "fa3393a3891723d4d2daec1f1d82ead175442f44",
+    "description": "An interactive folder with preview sheets and an expanded view."
+  },
+  {
+    "slug": "dock",
+    "title": "Dock",
+    "category": "navigation",
+    "source": "beui",
+    "path": "registry/beui/Dock.tsx",
+    "sourceUrl": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/dock.tsx",
+    "commit": "fa3393a3891723d4d2daec1f1d82ead175442f44",
+    "description": "A spring-animated dock with a sliding active state."
+  },
+  {
+    "slug": "expandable-tabs",
+    "title": "Expandable Tabs",
+    "category": "navigation",
+    "source": "beui",
+    "path": "registry/beui/ExpandableTabs.tsx",
+    "sourceUrl": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/expandable-tabs.tsx",
+    "commit": "fa3393a3891723d4d2daec1f1d82ead175442f44",
+    "description": "An icon bar that opens a contextual content panel."
+  },
+  {
+    "slug": "bloom-menu",
+    "title": "Bloom Menu",
+    "category": "navigation",
+    "source": "beui",
+    "path": "registry/beui/BloomMenu.tsx",
+    "sourceUrl": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/bloom-menu.tsx",
+    "commit": "fa3393a3891723d4d2daec1f1d82ead175442f44",
+    "description": "An action menu that blooms out from its trigger."
+  },
+  {
+    "slug": "cylinder-carousel",
+    "title": "Cylinder Carousel",
+    "category": "galleries",
+    "source": "beui",
+    "path": "registry/beui/CylinderCarousel.tsx",
+    "sourceUrl": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/cylinder-carousel.tsx",
+    "commit": "fa3393a3891723d4d2daec1f1d82ead175442f44",
+    "description": "A rolling image gallery with cylindrical perspective."
+  },
+  {
+    "slug": "marquee",
+    "title": "Marquee",
+    "category": "galleries",
+    "source": "beui",
+    "path": "registry/beui/Marquee.tsx",
+    "sourceUrl": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/marquee.tsx",
+    "commit": "fa3393a3891723d4d2daec1f1d82ead175442f44",
+    "description": "A seamless content loop with a pause-on-hover state."
+  },
+  {
+    "slug": "scroll-reveal",
+    "title": "Scroll Reveal",
+    "category": "sections",
+    "source": "beui",
+    "path": "registry/beui/ScrollReveal.tsx",
+    "sourceUrl": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/scroll-reveal.tsx",
+    "commit": "fa3393a3891723d4d2daec1f1d82ead175442f44",
+    "description": "Staggered content that gently rises into view."
+  },
+  {
+    "slug": "animated-toast-stack",
+    "title": "Animated Toast Stack",
+    "category": "feedback",
+    "source": "beui",
+    "path": "registry/beui/AnimatedToastStack.tsx",
+    "sourceUrl": "https://github.com/starc007/ui-components/blob/fa3393a3891723d4d2daec1f1d82ead175442f44/components/motion/animated-toast-stack.tsx",
+    "commit": "fa3393a3891723d4d2daec1f1d82ead175442f44",
+    "description": "Stacked notifications with dismissal, progress, and actions."
+  },
+  {
+    "slug": "magnetic-button",
+    "title": "Magnetic Button",
+    "category": "buttons",
+    "source": "smoothui",
+    "path": "registry/smoothui/MagneticButton.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/magnetic-button/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A spring-driven button that gently follows the pointer."
+  },
+  {
+    "slug": "animated-toggle",
+    "title": "Animated Toggle",
+    "category": "buttons",
+    "source": "smoothui",
+    "path": "registry/smoothui/AnimatedToggle.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-toggle/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A keyboard-friendly switch with a spring-driven thumb."
+  },
+  {
+    "slug": "animated-input",
+    "title": "Animated Input",
+    "category": "buttons",
+    "source": "smoothui",
+    "path": "registry/smoothui/AnimatedInput.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-input/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A floating label that moves smoothly as you type."
+  },
+  {
+    "slug": "animated-tags",
+    "title": "Animated Tags",
+    "category": "buttons",
+    "source": "smoothui",
+    "path": "registry/smoothui/AnimatedTags.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-tags/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Select and remove tags with animated layout transitions."
+  },
+  {
+    "slug": "duration-picker",
+    "title": "Duration Picker",
+    "category": "buttons",
+    "source": "smoothui",
+    "path": "registry/smoothui/DurationPicker.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/duration-picker/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Scrub hours, minutes and seconds with the pointer or keyboard."
+  },
+  {
+    "slug": "animated-file-upload",
+    "title": "Animated File Upload",
+    "category": "buttons",
+    "source": "smoothui",
+    "path": "registry/smoothui/AnimatedFileUpload.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-file-upload/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Drop files, inspect their sizes and remove them from the list."
+  },
+  {
+    "slug": "button-copy",
+    "title": "Button Copy",
+    "category": "buttons",
+    "source": "smoothui",
+    "path": "registry/smoothui/ButtonCopy.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/button-copy/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A copy action with loading, success and failure feedback."
+  },
+  {
+    "slug": "book",
+    "title": "Book",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/Book.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/book/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A three-dimensional book cover with a tactile spine and folded shadow."
+  },
+  {
+    "slug": "expandable-cards",
+    "title": "Expandable Cards",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/ExpandableCards.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/expandable-cards/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A horizontal set of image cards that expands to reveal a story."
+  },
+  {
+    "slug": "glow-hover-card",
+    "title": "Glow Hover Card",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/GlowHoverCard.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/glow-hover-card/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A shared pointer spotlight reveals a different color on each card."
+  },
+  {
+    "slug": "contribution-graph",
+    "title": "Contribution Graph",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/ContributionGraph.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/contribution-graph/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A calendar heatmap with day-by-day contribution details."
+  },
+  {
+    "slug": "switchboard-card",
+    "title": "Switchboard Card",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/SwitchboardCard.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/switchboard-card/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A matrix of lights with a configurable pattern and action."
+  },
+  {
+    "slug": "number-flow",
+    "title": "Number Flow",
+    "category": "text",
+    "source": "smoothui",
+    "path": "registry/smoothui/NumberFlow.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/number-flow/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Rolling number columns with interactive increment and decrement controls."
+  },
+  {
+    "slug": "price-flow",
+    "title": "Price Flow",
+    "category": "text",
+    "source": "smoothui",
+    "path": "registry/smoothui/PriceFlow.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/price-flow/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A formatted price that rolls smoothly when its value changes."
+  },
+  {
+    "slug": "rolling-text",
+    "title": "Rolling Text",
+    "category": "text",
+    "source": "smoothui",
+    "path": "registry/smoothui/RollingText.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/rolling-text/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Letters roll through a glyph column before landing on the final word."
+  },
+  {
+    "slug": "text-morph",
+    "title": "Text Morph",
+    "category": "text",
+    "source": "smoothui",
+    "path": "registry/smoothui/TextMorph.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/text-morph/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Shared letters rearrange as one phrase changes into another."
+  },
+  {
+    "slug": "gravity-letters",
+    "title": "Gravity Letters",
+    "category": "text",
+    "source": "smoothui",
+    "path": "registry/smoothui/GravityLetters.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/gravity-letters/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Let a headline fall apart, then bring its letters back into place."
+  },
+  {
+    "slug": "perspective-text-3d",
+    "title": "Perspective Text 3d",
+    "category": "text",
+    "source": "smoothui",
+    "path": "registry/smoothui/PerspectiveText3d.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/perspective-text-3d/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Words arranged in depth that rotate with the pointer."
+  },
+  {
+    "slug": "scramble-hover",
+    "title": "Scramble Hover",
+    "category": "text",
+    "source": "smoothui",
+    "path": "registry/smoothui/ScrambleHover.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/scramble-hover/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Hover a word to scramble its letters and resolve them again."
+  },
+  {
+    "slug": "animated-tabs",
+    "title": "Animated Tabs",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/AnimatedTabs.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-tabs/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Accessible tabs with a shared spring-animated selection indicator."
+  },
+  {
+    "slug": "expandable-navbar",
+    "title": "Expandable Navbar",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/ExpandableNavbar.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/expandable-navbar/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Navigation that opens smoothly measured content panels."
+  },
+  {
+    "slug": "floating-navbar",
+    "title": "Floating Navbar",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/FloatingNavbar.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/floating-navbar/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A floating navigation bar with a sliding active pill."
+  },
+  {
+    "slug": "basic-dropdown",
+    "title": "Basic Dropdown",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/BasicDropdown.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/basic-dropdown/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A compact dropdown with keyboard selection and focus management."
+  },
+  {
+    "slug": "searchable-dropdown",
+    "title": "Searchable Dropdown",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/SearchableDropdown.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/searchable-dropdown/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Filter a list of destinations and select one from a floating panel."
+  },
+  {
+    "slug": "breadcrumb",
+    "title": "Breadcrumb",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/Breadcrumb.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/breadcrumb/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An animated breadcrumb trail with accessible current-page semantics."
+  },
+  {
+    "slug": "animated-stepper",
+    "title": "Animated Stepper",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/AnimatedStepper.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-stepper/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Move through a workflow with animated progress and step content."
+  },
+  {
+    "slug": "file-tree",
+    "title": "File Tree",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/FileTree.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/file-tree/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An expandable file hierarchy with arrow-key navigation."
+  },
+  {
+    "slug": "vector-editor-toolbar",
+    "title": "Vector Editor Toolbar",
+    "category": "navigation",
+    "source": "smoothui",
+    "path": "registry/smoothui/VectorEditorToolbar.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/vector-editor-toolbar/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A tool palette with keyboard shortcuts and nested tool groups."
+  },
+  {
+    "slug": "card-swipe-deck",
+    "title": "Card Swipe Deck",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/CardSwipeDeck.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/card-swipe-deck/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Swipe or use buttons to sort a stack of cards in either direction."
+  },
+  {
+    "slug": "hover-expand",
+    "title": "Hover Expand",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/HoverExpand.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/hover-expand/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An image accordion that expands the active panel."
+  },
+  {
+    "slug": "hover-image-list",
+    "title": "Hover Image List",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/HoverImageList.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/hover-image-list/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An editorial list with image previews that follow the pointer."
+  },
+  {
+    "slug": "interactive-image-selector",
+    "title": "Interactive Image Selector",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/InteractiveImageSelector.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/interactive-image-selector/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Select, remove and share items from an image collection."
+  },
+  {
+    "slug": "image-metadata-preview",
+    "title": "Image Metadata Preview",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/ImageMetadataPreview.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/image-metadata-preview/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Reveal an image’s dimensions, camera details and file information."
+  },
+  {
+    "slug": "scrollable-card-stack",
+    "title": "Scrollable Card Stack",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/ScrollableCardStack.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/scrollable-card-stack/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A perspective gallery controlled by scrolling and dragging."
+  },
+  {
+    "slug": "time-machine-stack",
+    "title": "Time Machine Stack",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/TimeMachineStack.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/time-machine-stack/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Travel backwards and forwards through a stack of snapshots."
+  },
+  {
+    "slug": "folder-reveal",
+    "title": "Folder Reveal",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/FolderReveal.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/folder-reveal/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Open a folder to fan out a collection of image previews."
+  },
+  {
+    "slug": "reviews-carousel",
+    "title": "Reviews Carousel",
+    "category": "galleries",
+    "source": "smoothui",
+    "path": "registry/smoothui/ReviewsCarousel.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/reviews-carousel/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Cycle through review cards with keyboard and button controls."
+  },
+  {
+    "slug": "animated-progress-bar",
+    "title": "Animated Progress Bar",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/AnimatedProgressBar.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/animated-progress-bar/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An animated progress fill with an accessible percentage label."
+  },
+  {
+    "slug": "ai-loader",
+    "title": "AI Loader",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/AiLoader.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-loader/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An animated activity indicator with an optional elapsed-time counter."
+  },
+  {
+    "slug": "ai-context-meter",
+    "title": "AI Context Meter",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/AiContextMeter.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-context-meter/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A radial capacity meter with a breakdown of the space in use."
+  },
+  {
+    "slug": "ai-task-list",
+    "title": "AI Task List",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/AiTaskList.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-task-list/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A task checklist that shows pending, active and completed steps."
+  },
+  {
+    "slug": "notification-badge",
+    "title": "Notification Badge",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/NotificationBadge.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/notification-badge/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An animated count or presence marker attached to a control."
+  },
+  {
+    "slug": "motion-loader",
+    "title": "Motion Loader",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/MotionLoader.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/motion-loader/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A compact loader with geometric motion and reduced-motion support."
+  },
+  {
+    "slug": "skeleton-loader",
+    "title": "Skeleton Loader",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/SkeletonLoader.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/skeleton-loader/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A placeholder that follows the shape of the content it replaces."
+  },
+  {
+    "slug": "basic-toast",
+    "title": "Basic Toast",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/BasicToast.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/basic-toast/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A dismissible message with automatic timeout and status styling."
+  },
+  {
+    "slug": "dynamic-island",
+    "title": "Dynamic Island",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/DynamicIsland.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/dynamic-island/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A compact status surface that expands into different activities."
+  },
+  {
+    "slug": "ai-approval",
+    "title": "AI Approval",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/AiApproval.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-approval/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A decision card that resolves into the selected response."
+  },
+  {
+    "slug": "ai-tool-call",
+    "title": "AI Tool Call",
+    "category": "feedback",
+    "source": "smoothui",
+    "path": "registry/smoothui/AiToolCall.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/ai-tool-call/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An expandable activity record with arguments, result and status."
+  },
+  {
+    "slug": "editorial-hero",
+    "title": "Spotlight Hero",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Header5.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/headers/header-5/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A dark hero with a soft beam of light, floating particles and two actions."
+  },
+  {
+    "slug": "minimal-hero",
+    "title": "Minimal Hero",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Header6.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/headers/header-6/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A quiet hero composition with a staggered headline and soft motion."
+  },
+  {
+    "slug": "feature-spotlight",
+    "title": "Feature Highlights",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Features1.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/features/features-1/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A feature grid with a soft highlight that moves between items."
+  },
+  {
+    "slug": "feature-grid",
+    "title": "Feature Bento",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Features2.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/features/features-2/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "An asymmetric feature grid with a compact animated analytics panel."
+  },
+  {
+    "slug": "pricing-plans",
+    "title": "Pricing Plan",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Pricing1.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/pricing/pricing-1/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A pricing card with working monthly and yearly billing controls."
+  },
+  {
+    "slug": "animated-stats",
+    "title": "Animated Stats",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Stats1.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/stats/stats-1/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A statistics section with staggered metric reveals."
+  },
+  {
+    "slug": "faq-accordion",
+    "title": "FAQ Categories",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Faq1.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/faqs/faq-1/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "Switch between grouped questions with animated content transitions."
+  },
+  {
+    "slug": "call-to-action",
+    "title": "Call to Action",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Cta1.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/ctas/cta-1/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A compact call-to-action section with clear primary and secondary actions."
+  },
+  {
+    "slug": "footer-links",
+    "title": "Footer Links",
+    "category": "sections",
+    "source": "smoothui",
+    "path": "registry/smoothui/Footer4.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/blocks/footers/footer-4/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A responsive footer with grouped navigation and a closing signature."
+  },
+  {
+    "slug": "retro-grid",
+    "title": "Retro Grid",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/RetroGrid.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/retro-grid.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A moving perspective grid that recedes into the horizon."
+  },
+  {
+    "slug": "ripple",
+    "title": "Ripple",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/Ripple.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/ripple.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "Concentric circles gently expand behind your content."
+  },
+  {
+    "slug": "particles",
+    "title": "Particles",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/Particles.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/particles.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A drifting field of particles attracted to the pointer."
+  },
+  {
+    "slug": "meteors",
+    "title": "Meteors",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/Meteors.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/meteors.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "Fine diagonal trails move across a night-sky background."
+  },
+  {
+    "slug": "animated-grid-pattern",
+    "title": "Animated Grid Pattern",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/AnimatedGridPattern.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/animated-grid-pattern.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "An SVG grid with cells that slowly fade in and out."
+  },
+  {
+    "slug": "warp-background",
+    "title": "Warp Background",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/WarpBackground.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/warp-background.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "Perspective planes carry colored beams around a content panel."
+  },
+  {
+    "slug": "light-rays",
+    "title": "Light Rays",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/LightRays.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/light-rays.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "Soft shafts of light drift across the background."
+  },
+  {
+    "slug": "ripple-button",
+    "title": "Ripple Button",
+    "category": "buttons",
+    "source": "magicui",
+    "path": "registry/magicui/RippleButton.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/ripple-button.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A soft ripple expands from the point of each click."
+  },
+  {
+    "slug": "shimmer-button",
+    "title": "Shimmer Button",
+    "category": "buttons",
+    "source": "magicui",
+    "path": "registry/magicui/ShimmerButton.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/shimmer-button.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A narrow highlight travels around the edge of a pill button."
+  },
+  {
+    "slug": "interactive-hover-button",
+    "title": "Interactive Hover Button",
+    "category": "buttons",
+    "source": "magicui",
+    "path": "registry/magicui/InteractiveHoverButton.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/interactive-hover-button.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A small dot becomes a filled button as its label slides aside."
+  },
+  {
+    "slug": "neon-gradient-card",
+    "title": "Neon Gradient Card",
+    "category": "cards",
+    "source": "magicui",
+    "path": "registry/magicui/NeonGradientCard.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/neon-gradient-card.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A luminous two-color border slowly shifts around your content."
+  },
+  {
+    "slug": "social-hover-card",
+    "title": "Social Hover Card",
+    "category": "cards",
+    "source": "smoothui",
+    "path": "registry/smoothui/SocialHoverCard.tsx",
+    "sourceUrl": "https://github.com/educlopez/smoothui/blob/df0453c967224a91d460aa3bd1786c737c2c95bc/packages/smoothui/components/social-hover-card/index.tsx",
+    "commit": "df0453c967224a91d460aa3bd1786c737c2c95bc",
+    "description": "A profile preview opens on hover or focus, with an interactive follow action."
+  },
+  {
+    "slug": "spinning-text",
+    "title": "Spinning Text",
+    "category": "text",
+    "source": "magicui",
+    "path": "registry/magicui/SpinningText.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/spinning-text.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "Letters form a slowly rotating ring around a central mark."
+  },
+  {
+    "slug": "dot-pattern",
+    "title": "Dot Pattern",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/DotPattern.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/dot-pattern.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A field of small dots adds texture with an optional soft glow."
+  },
+  {
+    "slug": "interactive-grid-pattern",
+    "title": "Interactive Grid Pattern",
+    "category": "backgrounds",
+    "source": "magicui",
+    "path": "registry/magicui/InteractiveGridPattern.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/interactive-grid-pattern.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "Grid cells light up as the pointer moves across the surface."
+  },
+  {
+    "slug": "image-lens",
+    "title": "Image Lens",
+    "category": "galleries",
+    "source": "magicui",
+    "path": "registry/magicui/Lens.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/lens.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A circular magnifying lens reveals the finer details of an image."
+  },
+  {
+    "slug": "circular-progress",
+    "title": "Circular Progress",
+    "category": "feedback",
+    "source": "magicui",
+    "path": "registry/magicui/AnimatedCircularProgressBar.tsx",
+    "sourceUrl": "https://github.com/magicuidesign/magicui/blob/d7207e5692d14c00dceafa8488d6d01f197fa0e4/apps/www/registry/magicui/animated-circular-progress-bar.tsx",
+    "commit": "d7207e5692d14c00dceafa8488d6d01f197fa0e4",
+    "description": "A two-tone circular gauge animates between progress values."
+  }
+]

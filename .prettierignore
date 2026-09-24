@@ -1,0 +1,12 @@
+node_modules
+.next
+public
+data/generated
+tooling
+docs
+CONTRIBUTING.md
+package-lock.json
+.export-check
+playwright-report
+test-results
+artifacts
