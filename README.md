@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="#quick-start"><strong>Quick start</strong></a> ·
+  <a href="https://elements-for-kitty.vercel.app"><strong>Live demo</strong></a> ·
   <a href="#selected-previews"><strong>Previews</strong></a> ·
   <a href="#the-collection"><strong>Components</strong></a> ·
   <a href="#use-a-component"><strong>Copy for AI</strong></a> ·
@@ -41,36 +41,22 @@ Every live preview runs the same source files you can copy. Take a single file, 
 
 ## Quick start
 
-Requires **Node.js 22 or newer** and npm.
+**[Open Elements for Kitty →](https://elements-for-kitty.vercel.app)**
 
-```sh
-git clone https://github.com/NikroZorkin/ElementsUIforKitty.git
-cd ElementsUIforKitty
-npm ci
-npm run dev
-```
+1. Browse the collection, search for a component, or choose a category.
+2. Open an example to try its interaction and explore the source.
+3. Use **Copy code** for one file or **Copy for AI** for the complete example and setup instructions.
 
-Open [localhost:3000](http://127.0.0.1:3000).
-
-The catalog needs no environment variables, database, API keys, or sign-in. Component sources, sample artwork, thumbnails, and the demo font are served locally. `npm run dev` and `npm run build` generate the source bundles before starting Next.js.
-
-For a local production build:
-
-```sh
-npm run build
-npm run start
-```
-
-Deployment is configured separately. Use `npm run build` as the build command so the source bundles are generated alongside the site.
+No account or installation is required to explore the catalog. See [Getting started](https://elements-for-kitty.vercel.app/getting-started) for component setup, or [Development](#development) to run and contribute to the catalog itself.
 
 ## Selected previews
 
-A few components from the collection. Select an illustration to open its demo source.
+A few components from the collection. Select an illustration to try the live example and explore its source.
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="registry/demos/glass-card.tsx">
+      <a href="https://elements-for-kitty.vercel.app/components/glass-card">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="public/thumbnails/glass-card-dark.jpg" />
           <img src="public/thumbnails/glass-card-light.jpg" alt="Glass Card: a translucent purple membership card." width="280" />
@@ -79,7 +65,7 @@ A few components from the collection. Select an illustration to open its demo so
       <strong>Glass Card</strong><br /><sub>Cards · SmoothUI</sub>
     </td>
     <td align="center" width="33%">
-      <a href="registry/demos/aurora-curtain.tsx">
+      <a href="https://elements-for-kitty.vercel.app/components/aurora-curtain">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="public/thumbnails/aurora-curtain-dark.jpg" />
           <img src="public/thumbnails/aurora-curtain-light.jpg" alt="Aurora Curtain: soft curtains of color behind a headline." width="280" />
@@ -88,7 +74,7 @@ A few components from the collection. Select an illustration to open its demo so
       <strong>Aurora Curtain</strong><br /><sub>Backgrounds · SmoothUI</sub>
     </td>
     <td align="center" width="33%">
-      <a href="registry/demos/dock.tsx">
+      <a href="https://elements-for-kitty.vercel.app/components/dock">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="public/thumbnails/dock-dark.jpg" />
           <img src="public/thumbnails/dock-light.jpg" alt="Dock: a compact navigation bar with application icons." width="280" />
@@ -114,7 +100,7 @@ The catalog has a macOS-inspired shell with translucent navigation and controls.
 
 ## Use a component
 
-1. **Find it.** Browse a category or focus search with **⌘ K / Ctrl K**. Open a component to explore its live preview.
+1. **Find it.** [Browse the catalog](https://elements-for-kitty.vercel.app) or focus search with **⌘ K / Ctrl K**. Open a component to explore its live preview.
 2. **Try it.** Change the preview width or theme, interact with the example, and check **How to use** for its setup.
 3. **Copy it.** Choose **Copy code** for the selected file, or **Copy for AI** for the complete example. When copying files manually, include the helpers and assets listed in the source viewer.
 4. **Make it yours.** Install the listed dependencies, preserve the supplied relative paths, and keep the included copyright and license notices.
@@ -127,22 +113,42 @@ When using **Copy for AI**, paste the clipboard contents into your coding assist
 
 ## The collection
 
-| Category              | Components | A few starting points                            |
-| --------------------- | ---------: | ------------------------------------------------ |
-| Buttons & Controls    |         18 | Particle Button, Hold Button, Shimmer Button     |
-| Cards                 |         17 | Glass Card, Card Flip, Apple Activity Card       |
-| Text & Typography     |         16 | Sliced Text, Spinning Text, Scramble Hover       |
-| Backgrounds           |         17 | Aurora Curtain, Liquid Metal, Pixel Flow Field   |
-| Navigation            |         15 | Dock, Bloom Menu, Animated Tabs                  |
-| Galleries & Carousels |         16 | Coverflow Carousel, Photo Stack, Infinite Slider |
-| Sections              |         15 | Shape Hero, Spotlight Hero, Feature Highlights   |
-| Feedback & Loaders    |         16 | Circular Progress, AI Loader, Skeleton Loader    |
+| Category                                                                          | Components | A few starting points                            |
+| --------------------------------------------------------------------------------- | ---------: | ------------------------------------------------ |
+| [Buttons & Controls](https://elements-for-kitty.vercel.app/category/buttons)      |         18 | Particle Button, Hold Button, Shimmer Button     |
+| [Cards](https://elements-for-kitty.vercel.app/category/cards)                     |         17 | Glass Card, Card Flip, Apple Activity Card       |
+| [Text & Typography](https://elements-for-kitty.vercel.app/category/text)          |         16 | Sliced Text, Spinning Text, Scramble Hover       |
+| [Backgrounds](https://elements-for-kitty.vercel.app/category/backgrounds)         |         17 | Aurora Curtain, Liquid Metal, Pixel Flow Field   |
+| [Navigation](https://elements-for-kitty.vercel.app/category/navigation)           |         15 | Dock, Bloom Menu, Animated Tabs                  |
+| [Galleries & Carousels](https://elements-for-kitty.vercel.app/category/galleries) |         16 | Coverflow Carousel, Photo Stack, Infinite Slider |
+| [Sections](https://elements-for-kitty.vercel.app/category/sections)               |         15 | Shape Hero, Spotlight Hero, Feature Highlights   |
+| [Feedback & Loaders](https://elements-for-kitty.vercel.app/category/feedback)     |         16 | Circular Progress, AI Loader, Skeleton Loader    |
 
 Component metadata and original source links live in [data/entries.json](data/entries.json).
 
 ## Development
 
 The app uses Next.js 16, React 19, TypeScript strict, Tailwind CSS 4, Motion, Phosphor, Shiki, Radix Dialog, and Playwright. Exact dependency versions are recorded in [package-lock.json](package-lock.json).
+
+Requires **Node.js 22 or newer** and npm.
+
+```sh
+git clone https://github.com/NikroZorkin/ElementsUIforKitty.git
+cd ElementsUIforKitty
+npm ci
+npm run dev
+```
+
+Open the address printed by Next.js in your terminal. The catalog needs no environment variables, database, API keys, or sign-in. Component sources, sample artwork, thumbnails, and the demo font are included in the repository. Both development and production builds generate the source bundles automatically.
+
+For a production build:
+
+```sh
+npm run build
+npm run start
+```
+
+The public catalog is hosted on [Vercel](https://elements-for-kitty.vercel.app). To deploy your own copy, import the repository into Vercel, choose the **Next.js** preset, use `npm ci` to install dependencies, and set the build command to `npm run build` so source bundles are generated before compilation.
 
 <details>
 <summary><strong>Project structure</strong></summary>
