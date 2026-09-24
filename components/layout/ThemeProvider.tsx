@@ -11,7 +11,8 @@ const ThemeContext = createContext({
 });
 export const useTheme = () => useContext(ThemeContext);
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
-  const preference = usePreference("kitty-theme", "system");
+  const savedTheme = usePreference("kitty-theme", "system");
+  const preference = savedTheme === "light" || savedTheme === "dark" ? savedTheme : "system";
   const [systemDark, setSystemDark] = useState(false);
   useEffect(() => {
     const mq = matchMedia("(prefers-color-scheme: dark)");

@@ -5,26 +5,39 @@ import { useSyncExternalStore } from "react";
 const eventName = "kitty-preferences";
 const fallback = new Map<string, string>();
 function read(key: string, initial: string) {
+  const pending = fallback.get(key);
+  if (pending !== undefined) return pending;
   try {
-    return window.localStorage.getItem(key) ?? fallback.get(key) ?? initial;
+    return window.localStorage.getItem(key) ?? initial;
   } catch {
-    return fallback.get(key) ?? initial;
+    return initial;
   }
 }
 function subscribe(callback: () => void) {
-  window.addEventListener("storage", callback);
+  function onStorage(event: StorageEvent) {
+    try {
+      if (event.storageArea !== window.localStorage) return;
+    } catch {
+      return;
+    }
+    if (event.key === null) fallback.clear();
+    else fallback.delete(event.key);
+    callback();
+  }
+  window.addEventListener("storage", onStorage);
   window.addEventListener(eventName, callback);
   return () => {
-    window.removeEventListener("storage", callback);
+    window.removeEventListener("storage", onStorage);
     window.removeEventListener(eventName, callback);
   };
 }
 export function savePreference(key: string, value: string) {
-  fallback.set(key, value);
   try {
     window.localStorage.setItem(key, value);
+    fallback.delete(key);
   } catch {
     /* Private browsing still keeps this session usable. */
+    fallback.set(key, value);
   }
   window.dispatchEvent(new Event(eventName));
 }

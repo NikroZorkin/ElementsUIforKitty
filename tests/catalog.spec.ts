@@ -50,6 +50,73 @@ test("saved collection and appearance survive reload", async ({ page }) => {
   await expect(page.getByRole("heading", { name: "A home for your favorites" })).toBeVisible();
 });
 
+for (const storageState of ["full", "blocked"] as const) {
+  test(`appearance and favorites remain usable when browser storage is ${storageState}`, async ({
+    page,
+  }) => {
+    await page.addInitScript((state) => {
+      localStorage.setItem("kitty-theme", "light");
+      localStorage.setItem("kitty-favorites", "[]");
+      Storage.prototype.setItem = () => {
+        throw new DOMException("Storage unavailable", "QuotaExceededError");
+      };
+      if (state === "blocked") {
+        Storage.prototype.getItem = () => {
+          throw new DOMException("Storage unavailable", "SecurityError");
+        };
+      }
+    }, storageState);
+    await page.goto("/");
+    await page.getByRole("button", { name: "Dark theme", exact: true }).click();
+    await expect(page.locator("html")).toHaveClass("dark");
+    await page.getByRole("button", { name: "Save Glass Card", exact: true }).click();
+    await page
+      .getByRole("link", { name: /^Saved/ })
+      .first()
+      .click();
+    await expect(page.locator("article[data-component]")).toHaveCount(1);
+    await page.getByRole("button", { name: "Unsave Glass Card", exact: true }).click();
+    await expect(page.getByRole("heading", { name: "A home for your favorites" })).toBeVisible();
+    await page.getByRole("button", { name: "Light theme", exact: true }).click();
+    await expect(page.locator("html")).not.toHaveClass("dark");
+  });
+}
+
+test("malformed preferences fall back to the system theme and an empty collection", async ({
+  page,
+}) => {
+  await page.emulateMedia({ colorScheme: "dark" });
+  await page.addInitScript(() => {
+    localStorage.setItem("kitty-theme", "invalid-theme");
+    localStorage.setItem("kitty-favorites", "{invalid json");
+  });
+  await page.goto("/");
+  await expect(page.locator("html")).toHaveClass("dark");
+  const thumbnail = page.locator('[data-component="glass-card"] img').first();
+  await expect(thumbnail).toHaveAttribute("src", "/thumbnails/glass-card-dark.jpg");
+  await expect
+    .poll(() => thumbnail.evaluate((image: HTMLImageElement) => image.naturalWidth))
+    .toBeGreaterThan(0);
+  await page
+    .getByRole("link", { name: /^Saved/ })
+    .first()
+    .click();
+  await expect(page.getByRole("heading", { name: "A home for your favorites" })).toBeVisible();
+});
+
+test("preference changes and clearing storage sync between tabs", async ({ page, context }) => {
+  await page.goto("/");
+  const otherTab = await context.newPage();
+  await otherTab.goto("/");
+  await page.getByRole("button", { name: "Dark theme", exact: true }).click();
+  await expect(otherTab.locator("html")).toHaveClass("dark");
+  await otherTab.getByRole("button", { name: "Save Glass Card", exact: true }).click();
+  await expect(page.getByRole("button", { name: "Unsave Glass Card", exact: true })).toBeVisible();
+  await otherTab.evaluate(() => localStorage.clear());
+  await expect(page.locator("html")).not.toHaveClass("dark");
+  await expect(page.getByRole("button", { name: "Save Glass Card", exact: true })).toBeVisible();
+});
+
 test("only the active catalog preview is mounted", async ({ page }) => {
   await page.goto("/");
   await expect(page.locator("article iframe")).toHaveCount(0);
